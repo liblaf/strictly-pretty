@@ -1,1 +1,1 @@
-# strictly-pretty
+# Strictly Pretty
